@@ -1,0 +1,17 @@
+C:\Users\pgago\source\repos\SnapSpammer\SnapSpammer\bin\Debug\net6.0\KeySpammer.exe
+C:\Users\pgago\source\repos\SnapSpammer\SnapSpammer\bin\Debug\net6.0\KeySpammer.deps.json
+C:\Users\pgago\source\repos\SnapSpammer\SnapSpammer\bin\Debug\net6.0\KeySpammer.runtimeconfig.json
+C:\Users\pgago\source\repos\SnapSpammer\SnapSpammer\bin\Debug\net6.0\KeySpammer.dll
+C:\Users\pgago\source\repos\SnapSpammer\SnapSpammer\bin\Debug\net6.0\KeySpammer.pdb
+C:\Users\pgago\source\repos\SnapSpammer\SnapSpammer\bin\Debug\net6.0\WindowsInput.dll
+C:\Users\pgago\source\repos\SnapSpammer\SnapSpammer\obj\Debug\net6.0\KeySpammer.csproj.AssemblyReference.cache
+C:\Users\pgago\source\repos\SnapSpammer\SnapSpammer\obj\Debug\net6.0\KeySpammer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pgago\source\repos\SnapSpammer\SnapSpammer\obj\Debug\net6.0\KeySpammer.AssemblyInfoInputs.cache
+C:\Users\pgago\source\repos\SnapSpammer\SnapSpammer\obj\Debug\net6.0\KeySpammer.AssemblyInfo.cs
+C:\Users\pgago\source\repos\SnapSpammer\SnapSpammer\obj\Debug\net6.0\KeySpammer.csproj.CoreCompileInputs.cache
+C:\Users\pgago\source\repos\SnapSpammer\SnapSpammer\obj\Debug\net6.0\KeySpammer.csproj.CopyComplete
+C:\Users\pgago\source\repos\SnapSpammer\SnapSpammer\obj\Debug\net6.0\KeySpammer.dll
+C:\Users\pgago\source\repos\SnapSpammer\SnapSpammer\obj\Debug\net6.0\refint\KeySpammer.dll
+C:\Users\pgago\source\repos\SnapSpammer\SnapSpammer\obj\Debug\net6.0\KeySpammer.pdb
+C:\Users\pgago\source\repos\SnapSpammer\SnapSpammer\obj\Debug\net6.0\KeySpammer.genruntimeconfig.cache
+C:\Users\pgago\source\repos\SnapSpammer\SnapSpammer\obj\Debug\net6.0\ref\KeySpammer.dll

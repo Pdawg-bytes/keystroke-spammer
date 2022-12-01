@@ -1,0 +1,6 @@
+C:\keyspam\KeySpammer.exe
+C:\keyspam\KeySpammer.dll
+C:\keyspam\KeySpammer.deps.json
+C:\keyspam\KeySpammer.runtimeconfig.json
+C:\keyspam\KeySpammer.pdb
+C:\keyspam\WindowsInput.dll
